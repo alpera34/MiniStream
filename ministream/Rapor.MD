@@ -3,7 +3,7 @@
 **Ad:** [Adınız]  
 **Tarih:** 2026  
 **Dil:** C  
-**Veri Seti:** Spotify 1.2M+ Songs (Kaggle)
+**Veri Seti:** Spotify 1.2M+ Songs (Kaggle) (Github'da ki veri seti test için kısıtlı verilerden oluşmaktadır. Gerçek veri seti için : https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs)
 
 ---
 
